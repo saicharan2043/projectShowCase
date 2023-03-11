@@ -1,0 +1,26 @@
+.list {
+  width: 23%;
+  height: 300px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  margin-right: 15px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.image {
+  height: 200px;
+  width: 100%;
+  margin: 0px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.name {
+  font-family: Roboto;
+  font-size: 18px;
+  color: #475569;
+  margin: 20px;
+}
